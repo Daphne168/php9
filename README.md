@@ -21,7 +21,7 @@ pod2.jpg 此為查詢結果demo<br>
 find(pod).php 查詢輸入<br>
 find_x(pod).php 查詢結果<br>
 
-程式三：
+程式三：<br>
 utility(pod).php 所有錯誤寫在這 <br>
 pagemake(pod).php 這是ui樣版
 
