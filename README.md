@@ -5,8 +5,8 @@
 4.jpg 居然查到全部資料>.< <br>
 
 程式：<br>
-find.php 查詢輸入<br>
-find_x.php 查詢結果<br>
+find2.php 查詢輸入<br>
+find2_x.php 查詢結果<br>
 
 會有資料隱碼問題，需解決!
 
